@@ -1,4 +1,5 @@
 import Navbar from "@/components/layout/Navbar";
+import Benefits from "@/components/sections/Benefits";
 import Features from "@/components/sections/Features";
 import Hero from "@/components/sections/Hero";
 import TrustedBy from "@/components/sections/TrustedBy";
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <TrustedBy />
       <Features />
+      <Benefits />
     </main>
   );
 }

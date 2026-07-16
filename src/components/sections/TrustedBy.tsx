@@ -23,7 +23,7 @@ export default function TrustedBy() {
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
           transition={{ delay: 0.2 }}
-          className="mt-10 grid grid-cols-2 gap-8 text-center sm:grid-cols-3 lg:grid-cols-6"
+          className="mt-10 grid place-items-center grid-cols-2 sm:grid-cols-3 lg:grid-cols-6"
         >
           {companies.map((company, index) => (
             <Image
