@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function TrustedBy() {
   return (
-    <section className="border-y border-white/5 bg-zinc-900 py-16">
+    <section className=" bg-zinc-900 py-16">
       <div className="mx-auto max-w-7xl px-6">
         <motion.p
           initial={{ opacity: 0, y: 15 }}
