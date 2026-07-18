@@ -25,7 +25,7 @@ export default function PricingCard({
       whileHover={{ y: -8 }}
       transition={{ duration: 0.3 }}
       className={`relative rounded-3xl border p-8
-        ${popular ? "border-violet-500 bg-violet-500/10 -top-4" : "border-white/10 bg-zinc-900"}
+        ${popular ? "border-violet-500 bg-violet-500/10 -top-4 lg:-translate-y-4" : "border-white/10 bg-zinc-900"}
       `}
     >
       {popular && (
@@ -56,7 +56,7 @@ export default function PricingCard({
         {features.map((feature) => (
           <li
             key={feature}
-            className="flex items-center gap-3 text-sm text-zinc-300"
+            className="flex items-center gap-3  leading-6 text-zinc-300"
           >
             <Check size={18} className="text-violet-400" />
 

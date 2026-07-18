@@ -40,23 +40,5 @@ export default function Features() {
         </div>
       </div>
     </section>
-
-    // <div className="mx-auto max-w-7xl px-6 mt-16 grid grid-cols-3 gap-3">
-    //   <FeatureCard
-    //     icon={CheckSquare}
-    //     title="Organize Every Task"
-    //     description="Plan projects with boards, lists and timelines designed for productive teams."
-    //   />
-    //   <FeatureCard
-    //     icon={CheckSquare}
-    //     title="Organize Every Task"
-    //     description="Plan projects with boards, lists and timelines designed for productive teams."
-    //   />
-    //   <FeatureCard
-    //     icon={CheckSquare}
-    //     title="Organize Every Task"
-    //     description="Plan projects with boards, lists and timelines designed for productive teams."
-    //   />
-    // </div>
   );
 }
