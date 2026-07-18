@@ -182,6 +182,35 @@ https://flowsync-livid.vercel.app/
 
 ---
 
+# Screenshots
+
+### Hero
+<img width="515" height="879" alt="Screenshot 2026-07-18 at 17-57-07 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/36fd3ac5-0a6a-43a4-bca6-b53f361dc753" />
+
+<img width="700"  alt="Screenshot 2026-07-18 at 17-21-29 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/d83ed425-94ec-4be6-b215-8d982353fe1d" />
+
+### Features
+
+<img width="700" alt="Screenshot 2026-07-18 at 17-22-27 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/10ec76b8-09db-47ab-9691-4c328aa13c1a" />
+
+### Pricing
+<img width="700" alt="Screenshot 2026-07-18 at 17-23-10 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/e33b8137-ab62-4dc6-91a5-c318d3a14a29" />
+
+### Product Showcase
+
+<img width="700" alt="Screenshot 2026-07-18 at 17-22-54 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/04d45db3-c1c6-4f32-a2aa-cf9a628079de" />
+
+## Footer
+
+<img width="700" alt="Screenshot 2026-07-18 at 17-24-28 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/a874231d-a4e7-4c6a-8db9-b99ab1aa07da" />
+
+## Mobile
+
+<img width="412" alt="Screenshot 2026-07-18 at 17-57-07 FlowSync Modern Project Management for Teams" src="https://github.com/user-attachments/assets/6d5296b9-79b5-48e0-a131-352971ff20f4" />
+
+
+---
+
 # Author
 
 William Santana
