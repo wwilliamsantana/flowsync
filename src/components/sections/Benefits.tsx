@@ -6,7 +6,7 @@ import { benefits } from "@/data/benefits";
 
 export default function Benefits() {
   return (
-    <section className="bg-zinc-900 py-12">
+    <section className="bg-zinc-900 py-14">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 25 }}

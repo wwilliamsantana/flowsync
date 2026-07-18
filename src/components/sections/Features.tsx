@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 export default function Features() {
   return (
-    <section id="features" className="bg-zinc-900 py-28">
+    <section id="features" className="bg-zinc-900 py-14">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 25 }}

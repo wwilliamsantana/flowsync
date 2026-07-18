@@ -6,7 +6,7 @@ import { pricingPlans } from "@/data/pricingPlans";
 
 export default function Pricing() {
   return (
-    <section id="pricing" className="bg-zinc-900 py-32">
+    <section id="pricing" className="bg-zinc-900 py-14">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <motion.div
           initial={{
