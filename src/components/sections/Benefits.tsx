@@ -18,7 +18,7 @@ export default function Benefits() {
             Product Showcase
           </span>
 
-          <h2 className="mt-5 text-5xl font-bold tracking-tight text-white">
+          <h2 className="mt-5 text-4xl font-bold tracking-tight text-white md:text-5xl">
             Work smarter,
             <br />
             not harder.
@@ -30,7 +30,7 @@ export default function Benefits() {
           </p>
         </motion.div>
 
-        <div className="space-y-36">
+        <div className="space-y-28 lg:space-y-36">
           {benefits.map((benefit) => (
             <Benefit key={benefit.title} {...benefit} />
           ))}

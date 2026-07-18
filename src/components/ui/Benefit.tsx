@@ -18,8 +18,8 @@ export default function Benefit({
 }: BenefitProps) {
   return (
     <motion.div
-      initial={{ opacity: 0, y: 40 }}
-      whileInView={{ opacity: 1, y: 0 }}
+      initial={{ opacity: 0, x: reverse ? 40 : -40 }}
+      whileInView={{ opacity: 1, x: 0 }}
       viewport={{ once: true, amount: 0.3 }}
       transition={{ duration: 0.6 }}
       className={`
@@ -34,8 +34,8 @@ export default function Benefit({
         <Image
           src={image}
           alt={title}
-          width={1136}
-          height={1268}
+          width={768}
+          height={1200}
           className="relative rounded-3xl border border-white/10"
         />
       </div>
@@ -45,9 +45,11 @@ export default function Benefit({
           Productivity
         </span>
 
-        <h3 className="mt-5 text-4xl font-bold text-white">{title}</h3>
+        <h3 className="mt-5 text-3xl lg:text-4xl font-bold text-white">
+          {title}
+        </h3>
 
-        <p className="mt-6 leading-8 text-zinc-400">{description}</p>
+        <p className="mt-6 text-lg leading-8 text-zinc-400">{description}</p>
       </div>
     </motion.div>
   );
