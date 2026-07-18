@@ -26,6 +26,15 @@ export const metadata: Metadata = {
     "React",
     "Task Management",
   ],
+  openGraph: {
+    title: "FlowSync | Modern Project Management",
+    description:
+      "Plan projects, automate workflows and collaborate with your team in one beautiful workspace.",
+    url: "https://flowsync.vercel.app",
+    siteName: "FlowSync",
+    locale: "en_US",
+    type: "website",
+  },
   authors: [
     {
       name: "William Santana",
