@@ -1,3 +1,4 @@
+import Footer from "@/components/layout/Footer";
 import Navbar from "@/components/layout/Navbar";
 import Benefits from "@/components/sections/Benefits";
 import CTA from "@/components/sections/CTA";
@@ -18,6 +19,7 @@ export default function Home() {
       <Pricing />
       <FAQ />
       <CTA />
+      <Footer />
     </main>
   );
 }
