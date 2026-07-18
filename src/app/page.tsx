@@ -1,5 +1,6 @@
 import Footer from "@/components/layout/Footer";
-import Navbar from "@/components/layout/Navbar";
+import Navbar from "@/components/layout/Navbar/Navbar";
+
 import Benefits from "@/components/sections/Benefits";
 import CTA from "@/components/sections/CTA";
 import FAQ from "@/components/sections/FAQ";
