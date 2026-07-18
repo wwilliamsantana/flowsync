@@ -16,7 +16,7 @@ export default function Navbar() {
           href="/"
           className="flex items-center gap-2 transition-opacity hover:opacity-90"
         >
-          <div className="flex h-10 w-10 items-center justify-center border rounded-xl bg-linear-to-r from-violet-600 to-indigo-600">
+          <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-linear-to-r from-violet-600 to-indigo-600">
             <Workflow size={20} className="text-white" />
           </div>
 
