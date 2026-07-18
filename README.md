@@ -14,7 +14,7 @@ FlowSync is a fictional project management platform designed to showcase a produ
 
 Live Demo:
 
-https://flowsync.vercel.app
+https://flowsync-livid.vercel.app/
 
 ---
 
@@ -178,7 +178,7 @@ The application is deployed on **Vercel**.
 
 Live:
 
-https://flowsync.vercel.app
+https://flowsync-livid.vercel.app/
 
 ---
 
