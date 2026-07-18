@@ -1,5 +1,6 @@
 import Navbar from "@/components/layout/Navbar";
 import Benefits from "@/components/sections/Benefits";
+import CTA from "@/components/sections/CTA";
 import FAQ from "@/components/sections/FAQ";
 import Features from "@/components/sections/Features";
 import Hero from "@/components/sections/Hero";
@@ -16,6 +17,7 @@ export default function Home() {
       <Benefits />
       <Pricing />
       <FAQ />
+      <CTA />
     </main>
   );
 }

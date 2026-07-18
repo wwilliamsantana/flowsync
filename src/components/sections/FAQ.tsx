@@ -6,7 +6,7 @@ import { faqItems } from "@/data/faq";
 
 export default function FAQ() {
   return (
-    <section id="faq" className="bg-zinc-900 py-14">
+    <section id="faq" className="bg-zinc-900 py-16">
       <div className="mx-auto max-w-4xl px-6">
         <motion.div
           initial={{
