@@ -1,36 +1,196 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# <img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/5ff2e065-7548-4d3a-81b8-92c90ceb2eae" />  FlowSync
 
-## Getting Started
+A modern SaaS Landing Page built with **Next.js 15**, **React 19**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+FlowSync is a fictional project management platform designed to showcase a production-quality frontend architecture, responsive design, smooth animations, and modern UI patterns inspired by today's leading SaaS companies.
+
+---
+
+## Preview
+
+
+
+> Responsive SaaS Landing Page with a clean interface, reusable components and optimized performance.
+
+Live Demo:
+
+https://flowsync.vercel.app
+
+---
+
+# Features
+
+- Modern SaaS Landing Page
+- Fully Responsive Layout
+- Smooth Framer Motion Animations
+- Reusable Component Architecture
+- SEO Optimized
+- Accessible Navigation
+- Dark Theme
+- Pricing Section
+- FAQ Accordion
+- Call To Action
+- Optimized Images
+- Lighthouse Friendly
+
+---
+
+# Tech Stack
+
+### Framework
+
+- Next.js 15
+- React 19
+- TypeScript
+
+### Styling
+
+- Tailwind CSS
+- CSS Variables
+
+### Animations
+
+- Framer Motion
+
+### Icons
+
+- Lucide React
+
+### Deployment
+
+- Vercel
+
+---
+
+# Sections
+
+- Responsive Navbar
+- Hero
+- Trusted By
+- Features
+- Product Showcase
+- Pricing
+- FAQ
+- CTA
+- Footer
+
+---
+
+# Getting Started
+
+Clone the repository.
+
+```bash
+git clone https://github.com/wwilliamsantana/flowsync.git
+```
+
+Navigate to the project.
+
+```bash
+cd flowsync
+```
+
+Install dependencies.
+
+```bash
+npm install
+```
+
+Run the development server.
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Build
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Start production server.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm start
+```
+---
 
-## Deploy on Vercel
+# Responsive Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Designed for:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Mobile
+- Tablet
+- Laptop
+- Desktop
+
+Breakpoints tested:
+
+- 375px
+- 768px
+- 1024px
+- 1440px
+
+---
+
+# Project Goals
+
+The purpose of this project was to simulate the delivery of a professional landing page for a SaaS startup while following production-ready development practices.
+
+Focus areas included:
+
+- Clean Code
+- Component Reusability
+- Responsive Design
+- Accessibility
+- SEO
+- Performance
+- Maintainable Architecture
+
+---
+
+# What I Learned
+
+During this project I focused on improving:
+
+- Component Architecture
+- Responsive Layout Techniques
+- Framer Motion Animations
+- Next.js App Router
+- Metadata & SEO
+- Performance Optimization
+- UI Consistency
+- Reusable Components
+
+---
+
+# Deployment
+
+The application is deployed on **Vercel**.
+
+Live:
+
+https://flowsync.vercel.app
+
+---
+
+# Author
+
+William Santana
+
+LinkedIn:
+https://linkedin.com/in/wwilliamsantana
+
+---
+
+# 📄 License
+
+This project was created for educational and portfolio purposes.
