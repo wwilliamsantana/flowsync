@@ -11,16 +11,18 @@ import TrustedBy from "@/components/sections/TrustedBy";
 
 export default function Home() {
   return (
-    <main className="bg-zinc-900 min-h-screen">
-      <Navbar />
-      <Hero />
-      <TrustedBy />
-      <Features />
-      <Benefits />
-      <Pricing />
-      <FAQ />
-      <CTA />
+    <>
+      <main className="bg-zinc-900 min-h-screen">
+        <Navbar />
+        <Hero />
+        <TrustedBy />
+        <Features />
+        <Benefits />
+        <Pricing />
+        <FAQ />
+        <CTA />
+      </main>
       <Footer />
-    </main>
+    </>
   );
 }

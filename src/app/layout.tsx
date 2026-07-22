@@ -8,7 +8,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://flowsync.vercel.app"),
+  metadataBase: new URL("https://flowsync-livid.vercel.app/"),
   title: {
     default: "FlowSync | Modern Project Management for Teams",
     template: "%s | FlowSync",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     title: "FlowSync | Modern Project Management",
     description:
       "Plan projects, automate workflows and collaborate with your team in one beautiful workspace.",
-    url: "https://flowsync.vercel.app",
+    url: "https://flowsync-livid.vercel.app/",
     siteName: "FlowSync",
     locale: "en_US",
     type: "website",

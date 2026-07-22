@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://flowsync.vercel.app/sitemap.xml",
+    sitemap: "https://flowsync-livid.vercel.app/sitemap.xml",
   };
 }
