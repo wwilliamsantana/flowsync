@@ -35,27 +35,12 @@ https://flowsync-livid.vercel.app/
 
 ## Tecnologias utilizadas
 
-### Framework
-
-- Next.js 15
-- React 19
+- Next.js 
+- React 
 - TypeScript
-
-### Estilização
-
 - Tailwind CSS
-- Variáveis CSS
-
-### Animações
-
 - Framer Motion
-
-### Ícones
-
 - Lucide React
-
-### Hospedagem
-
 - Vercel
 
 ---
